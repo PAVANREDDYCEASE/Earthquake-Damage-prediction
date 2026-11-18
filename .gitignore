@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+__pycache__/
+catboost_info/
+.venv/
+venv/
+*.pyc
+
+# Raw datasets
+train_values.csv
+train_labels.csv
+test_values.csv
+test_labels.csv
+data/
+dataset/
